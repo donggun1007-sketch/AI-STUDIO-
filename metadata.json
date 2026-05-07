@@ -1,0 +1,6 @@
+{
+  "name": "원자력교육 AI 영상 자동화 시스템",
+  "description": "Automated system for generating educational video storyboards from accident analysis documents for KHNP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
